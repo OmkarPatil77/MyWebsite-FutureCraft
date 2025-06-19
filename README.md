@@ -1,12 +1,22 @@
-# React + Vite
+Project Description (For GitHub)
+TechCraft is a sleek and responsive frontend project built using React and Tailwind CSS, focused on delivering a smooth and engaging user experience. It features:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fixed navigation bar with smooth scroll
+An Intutive Home Page
+Company carousel and switch
+Feature highlights
+card hover effects and automatic animated switch
+parrallax effects and stats progress card
+Testimonials section
+A responsive design across all devices
 
-Currently, two official plugins are available:
+Animated testimonials with motion effects
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
 
-## Expanding the ESLint configuration
+- **React.js** (with `useState`, `useEffect`, etc.)
+- **Tailwind CSS** for styling
+- **Framer Motion** for animations
+- **Lucide Icons** for UI consistency
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+This project demonstrates strong UI/UX fundamentals, scroll-based animations using Framer Motion, and clean component-based architecture.
